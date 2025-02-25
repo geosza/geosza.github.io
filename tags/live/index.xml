@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Live on 42 Website</title>
+    <link>https://geosza.github.io/tags/live/</link>
+    <description>Recent content in Live on 42 Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geosza.github.io/tags/live/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unifestival Liège - 42 Live Set</title>
+      <link>https://geosza.github.io/blog/unifestival/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://geosza.github.io/blog/unifestival/</guid>
+      
+        <description>A look back at 42 techno live performance at the Unifestival Liège.</description>
+      
+    </item>
+    
+    <item>
+      <title>42 1st Live set at Bassinnes</title>
+      <link>https://geosza.github.io/blog/bassines/</link>
+      <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://geosza.github.io/blog/bassines/</guid>
+      
+        <description>A look back at 42 techno set at Bassinnes Festival.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>42 on 42 Website</title>
+    <link>https://geosza.github.io/tags/42/</link>
+    <description>Recent content in 42 on 42 Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://geosza.github.io/tags/42/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paula Temple Played 42 Track Quantum Scope at ADE (Amsterdam Dance Event) 2024</title>
+      <link>https://geosza.github.io/blog/paula-temple/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://geosza.github.io/blog/paula-temple/</guid>
+      
+        <description>Paula Temple played 42 track Quantum Scope during her set at ADE Amsterdam Dance Event 2024 ! Listen to the set and the track.</description>
+      
+    </item>
+    
+    <item>
+      <title>Unifestival Liège - 42 Live Set</title>
+      <link>https://geosza.github.io/blog/unifestival/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://geosza.github.io/blog/unifestival/</guid>
+      
+        <description>A look back at 42 techno live performance at the Unifestival Liège.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

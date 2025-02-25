@@ -1,0 +1,34 @@
++++
+date = '2025-02-11T13:24:16+01:00'
+draft = false
+title = 'Discography'
+description = "Discover our latest music releases, available on Bandcamp, Spotify, Apple Music and most streaming platforms."
++++
+# 🎵 Our Discography
+
+## **Latest Releases**
+Explore our latest music releases and listen on your favorite platform.
+
+{{ if false }}
+<div class="hidden-section">
+
+### **Album: "Techno Vibes" (2024)**
+![Techno Vibes Cover](/images/techno-vibes.jpg)
+
+Listen on:
+- 🎧 **[Spotify](https://open.spotify.com/album/SPOTIFY_ALBUM_ID)**
+- 🍏 **[Apple Music](https://music.apple.com/album/APPLE_MUSIC_ALBUM_ID)**
+- 🎵 **[Bandcamp](https://yourband.bandcamp.com/album/techno-vibes)**
+
+---
+
+### **EP: "Night Rhythms" (2023)**
+![Night Rhythms Cover](/images/night-rhythms.jpg)
+
+Listen on:
+- 🎧 **[Spotify](https://open.spotify.com/album/SPOTIFY_EP_ID)**
+- 🍏 **[Apple Music](https://music.apple.com/album/APPLE_MUSIC_EP_ID)**
+- 🎵 **[Bandcamp](https://yourband.bandcamp.com/album/night-rhythms)**
+    </div>
+
+{{ end }}
