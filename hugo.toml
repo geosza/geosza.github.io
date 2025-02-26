@@ -1,0 +1,108 @@
+baseURL = "https://sixbyseven42.be/"
+languageCode = 'fr'
+title = '42 Website'
+theme = "anatole"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  author = "42"
+  bio = "We’re a four-member techno group with a deep love for electronic music since the 90s. The live side of the music is what got us thinking about how to compose for a collab between musicians and share our influences with the audience. We’ve got a lot of history and passion packed into our music. We’re here to share our love for techno music and share some grooves. Join us on this journey and let’s vibe together."
+  avatarURL = "images/bassines.jpg"
+  profilePicture = "/images/42-logo.jpg"
+  description = "We are 42"
+  enableDarkMode = true
+  favicon = "images/favicon.ico"
+  enableInlineShortcodes = true
+  customCss = ["css/carousel.css"]
+  customJs = ["js/carousel.js"]
+
+ 
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:sixbyseven.42@gmail.com"
+
+[[params.socialIcons]]
+    title = "Facebook"
+    url = "https://www.facebook.com/sixbyseven42/"
+    icon = "fab fa-facebook"
+
+[[params.socialIcons]]
+    title = "Instagram"
+    url = "https://www.instagram.com/sixbyseven42/"
+    icon = "fab fa-instagram"
+
+[[params.socialIcons]]
+    title = "TikTok"
+    url = "https://www.tiktok.com/@sixbyseven42"
+    icon = "fab fa-tiktok"
+
+[[params.socialIcons]]
+    title = "YouTube"
+    url = "https://www.youtube.com/@SixBySeven42"
+    icon = "fab fa-youtube"
+
+[[params.socialIcons]]
+    title = "SoundCloud"
+    url = "https://soundcloud.com/42sixbyseven"
+    icon = "fab fa-soundcloud"
+
+[[params.socialIcons]]
+    title = "Bandcamp"
+    url = "https://sixbyseven42.bandcamp.com/"
+    icon = "fab fa-bandcamp"
+    
+[[params.socialIcons]]
+    title = "Spotify"
+    url = "https://open.spotify.com/intl-fr/artist/49HLIKKnvWreUTNHL2NONb?si=LyQEPUBGQf-nx3ebLMrsIg"
+    icon = "fab fa-spotify"
+
+[[params.socialIcons]]
+    title = "Apple Music"
+    url = "https://music.apple.com/fr/artist/42/1748089633"
+    icon = "fab fa-apple"
+
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+ 
+  [[menu.main]]
+    name = "About us"
+    url = "/bio"
+    weight = 2
+
+   [[menu.main]]
+    name = "Our music"
+    url = "/discography/"
+    weight = 3
+
+   [[menu.main]]
+    name = "Videos"
+    url = "/videos/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "SITEMAP"]
+
+
+[minify]
+  disableXML = true
+  minifyOutput = true
